@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on upskilling my web development skills.<br>Also, looking for internships as well.
+I'm currently working on upskilling my web development skills<br>Looking for internships as well so feel free to reach out
 
 
 ## 🌐 Socials:
